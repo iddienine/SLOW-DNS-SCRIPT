@@ -1,4 +1,4 @@
-# 🚀 HALOTEL TANZANIA 🇹🇿
+ 🚀 HALOTEL BONGO 🇹🇿
 
 Copy the script bash to you vps to run:
 
