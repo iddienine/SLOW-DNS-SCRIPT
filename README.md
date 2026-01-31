@@ -1,4 +1,4 @@
- 🚀 HALOTEL BONGO 🇹🇿
+ 🚀 FAST DNS HALOTEL TZ🇹🇿
 
 Copy the script bash to you vps to run:
 
